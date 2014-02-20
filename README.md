@@ -20,3 +20,5 @@
 # org.apache.cordova.splashscreen
 
 Plugin documentation: [doc/index.md](doc/index.md)
+
+My chnages here are to support (actually force) landscape splash screens for iPhone/iPods
